@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anshpreet Singh
 - 👀 I’m interested in cooding
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me By using My insta profile- [ansh_preet_singh_09](https://www.instagram.com/anshpreetsaini09/)
+- 📫 How to reach me By using My insta profile- [anshpreetsaini09](https://www.instagram.com/anshpreetsaini09/)
 - This is official Project Page
 - Enjoy the journey of my projects
 - You can get a reference from my projects
