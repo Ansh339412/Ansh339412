@@ -51,13 +51,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ansh339412&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh339412&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh339412&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -108,6 +108,6 @@
 
 ### ✨ Building Today. Innovating Tomorrow.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=PROFILE+VIEWS\&color=EAC603\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ansh339412\&label=PROFILE+VIEWS\&color=EAC603\&style=for-the-badge)
 
 </div>
