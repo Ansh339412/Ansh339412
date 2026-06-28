@@ -64,11 +64,9 @@
 ## Top Certifications
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="60" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" />
 </p>
 
 ## 🚀 What I'm Working On
