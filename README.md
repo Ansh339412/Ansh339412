@@ -62,12 +62,12 @@
 
 ---
 ## Top Certifications
+🔹 IBM Full Stack Developer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="60" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" />
-</p>
+🔹 Google Cybersecurity
+
+🔹 Aws Fundamentals
+
 
 ## 🚀 What I'm Working On
 
