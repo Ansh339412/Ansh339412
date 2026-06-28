@@ -62,13 +62,12 @@
 
 ---
 ## Top Certifications
-## 🏆 Certifications
 
-[![AWS Fundamentals](https://img.shields.io/badge/AWS-Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](YOUR_AWS_CERTIFICATE_LINK)
-
-[![IBM Full Stack Software Developer](https://img.shields.io/badge/IBM-Full%20Stack%20Developer-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](YOUR_IBM_CERTIFICATE_LINK)
-
-[![Google Cybersecurity Professional](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](YOUR_GOOGLE_CERTIFICATE_LINK)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" width="70"/>
+  <img src="https://cdn.simpleicons.org/ibm" alt="IBM" width="70"/>
+  <img src="https://cdn.simpleicons.org/google" alt="Google" width="70"/>
+</p>
 
 ## 🚀 What I'm Working On
 
