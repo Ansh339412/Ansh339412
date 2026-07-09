@@ -51,15 +51,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ansh339412&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh339412&theme=tokyonight&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Ansh339412&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh339412&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansh339412&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh339412&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Ansh339412/Ansh339412/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ansh339412?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Ansh339412?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/Ansh339412/Ansh339412?style=for-the-badge&logo=github" alt="Last Commit"/>
+</p>
 ---
 ## Top Certifications
 🔹 IBM Full Stack Developer
