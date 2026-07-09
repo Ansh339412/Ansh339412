@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anshpreet Singh
 
-<div align="center">
+<div align="center"> 
 
 ### 🚀 Full Stack Developer in Progress | B.Tech Student @ LPU
 
