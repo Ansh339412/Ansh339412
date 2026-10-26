@@ -1,24 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Anshpreet+Singh+%F0%9F%91%8B;Full-Stack+Developer;Product-minded+builder;Problem+solver+%7C+Learner+%7C+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Anshpreet+Singh+%F0%9F%91%8B;Full-Stack+Developer;Problem+Solver;Builder+%7C+Learner+%7C+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,00D2FF,00F5A0,FF5F6D&height=185&section=header&text=Anshpreet%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,0EA5E9,14B8A6,F59E0B&height=180&section=header&text=Anshpreet%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=72" />
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ansh339412&color=7C3AED&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
+  <a href="https://github.com/Ansh339412">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.instagram.com/anshpreetsaini09?stkn=MTE3emxoMHU0azZvMg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -26,15 +19,15 @@
 
 ## About Me
 
-🎓 Pursuing B.Tech in Computer Science at Lovely Professional University  
+🎓 B.Tech in Computer Science at Lovely Professional University  
 💻 Passionate about building modern, user-centric web experiences and product-driven solutions  
 🌱 Currently exploring full-stack development, AI workflows, scalable architecture, and system design  
 🚀 I enjoy turning ideas into polished, functional, and impactful digital experiences
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-FullStack-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-AI%20%2B%20Web-00D2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20learn-00F5A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-FullStack-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%2B%20Web-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20learn-14B8A6?style=for-the-badge" />
 </p>
 
 ---
@@ -75,15 +68,6 @@
 
 ---
 
-## Featured Work
-
-- 🚀 Building modern, polished web applications with strong UX
-- 🧠 Exploring AI-assisted workflows, agentic systems, and practical automation
-- ⚙️ Learning how to design scalable and maintainable product architecture
-- 📈 Combining design thinking, development, and problem-solving in personal projects
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -105,15 +89,7 @@
 1. IBM Full Stack Developer  
 2. AWS Fundamentals  
 3. Getting Started with System Design  
-4. Google Agentic AI and RAG
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansh339412&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+4. Google Agentic AI and RAG  
 
 ---
 
@@ -136,24 +112,16 @@
 
 ## Connect
 
-I’m always open to learning, collaboration, and building meaningful things with people who care about quality and impact.
+I’m open to collaboration, learning, and building products that have real value.
 
 <p align="center">
+  <a href="https://github.com/Ansh339412">GitHub</a>
+  •
   <a href="https://www.instagram.com/anshpreetsaini09?stkn=MTE3emxoMHU0azZvMg==">Instagram</a>
-  •
-  <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a>
-  •
-  <a href="mailto:your.email@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ansh339412&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributor Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Ansh339412&color=8B5CF6&style=flat-square&label=Profile+Views" />
 </p>
-
-<!-- Keep this section for your portfolio links -->
-<!--
-Portfolio: https://your-portfolio.com
-Resume: https://your-resume-link.com
--->
