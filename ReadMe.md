@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ansh+%F0%9F%91%8B;Full-Stack+Developer;Building+cool+products+and+ideas;Always+learning+and+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Anshpreet+Singh+%F0%9F%91%8B;Full-Stack+Developer;Building+cool+products+and+ideas;Always+learning+and+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,9,11,13,15,17,19,21,23,25&height=180&section=header&text=Ansh%20Saini&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,9,11,13,15,17,19,21,23,25&height=180&section=header&text=Anshpreet%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=72" />
 </p>
 
 <h3 align="center">
