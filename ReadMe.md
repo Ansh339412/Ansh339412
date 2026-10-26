@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Anshpreet+Singh+%F0%9F%91%8B;Full-Stack+Developer;Building+cool+products+and+ideas;Always+learning+and+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Anshpreet+Singh+%F0%9F%91%8B;Full-Stack+Developer;Product-minded+builder;Problem+solver+%7C+Learner+%7C+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,9,11,13,15,17,19,21,23,25&height=180&section=header&text=Anshpreet%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,00D2FF,00F5A0,FF5F6D&height=185&section=header&text=Anshpreet%20Singh&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=72" />
 </p>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" alt="Laptop Emoji" />
-  Developer • Learner • Builder
-</h3>
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ansh339412&color=7C3AED&style=flat-square&label=Profile+Views" />
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/anshpreetsaini09?stkn=MTE3emxoMHU0azZvMg==">
@@ -28,34 +27,52 @@
 ## About Me
 
 🎓 Pursuing B.Tech in Computer Science at Lovely Professional University  
-💻 Passionate about crafting modern web experiences and solving real-world problems  
-🌱 Currently exploring full-stack development, AI workflows, system design, and scalable product ideas  
-🚀 I enjoy building projects that combine usability, performance, and clean architecture
+💻 Passionate about building modern, user-centric web experiences and product-driven solutions  
+🌱 Currently exploring full-stack development, AI workflows, scalable architecture, and system design  
+🚀 I enjoy turning ideas into polished, functional, and impactful digital experiences
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-FullStack-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%2B%20Web-00D2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20learn-00F5A0?style=for-the-badge" />
+</p>
 
 ---
 
 ## Tech Stack
 
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Frontend
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Work
 
-- 🚀 Building modern, user-focused web applications
-- 🧠 Exploring AI-powered tools and agentic workflows
-- ⚙️ Learning scalable frontend/backend architecture
-- 📈 Working on projects that combine design, logic, and real user value
+- 🚀 Building modern, polished web applications with strong UX
+- 🧠 Exploring AI-assisted workflows, agentic systems, and practical automation
+- ⚙️ Learning how to design scalable and maintainable product architecture
+- 📈 Combining design thinking, development, and problem-solving in personal projects
 
 ---
 
@@ -94,23 +111,37 @@
 
 ## Current Focus
 
-- 🔭 Full-stack development
-- 🧩 UI/UX-driven product building
-- 🤖 AI + automation workflows
-- ⚡ Improving problem-solving and system-design skills
+- 🔭 Full-stack product engineering
+- 🧩 UI/UX-driven web development
+- 🤖 AI + automation exploration
+- ⚡ Improving problem-solving, system design, and product thinking
 
 ---
 
 ## Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
+</p>
+
+---
+
+## Connect
+
+I’m always open to learning, collaboration, and building meaningful things with people who care about quality and impact.
+
+<p align="center">
+  <a href="https://www.instagram.com/anshpreetsaini09?stkn=MTE3emxoMHU0azZvMg==">Instagram</a>
+  •
+  <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a>
+  •
+  <a href="mailto:your.email@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansh339412&color=00F5FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ansh339412&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributor Stats" />
 </p>
 
 <!-- Keep this section for your portfolio links -->
