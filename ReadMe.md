@@ -67,6 +67,14 @@
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansh339412/Ansh339412/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+---
+
 ## Featured Work
 
 - 🚀 Building modern, polished web applications with strong UX
