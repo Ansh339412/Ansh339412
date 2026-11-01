@@ -11641,13 +11641,15 @@
       "name": "Bio Widget",
       "position": {
         "x": 0,
-        "y": 389
+        "y": 386
       },
       "size": {
         "width": 800,
         "height": 160
       },
-      "config": {},
+      "config": {
+        "customBio": "🚀 Full-Stack Developer | B.Tech @ LPU\n💡 Building modern web experiences & solving real-world problems\n🌱 Learning • Creating • Innovating"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 8
@@ -11668,7 +11670,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793501112556_mlgjv",
-    "updatedAt": "2026-11-01T02:45:16.114Z"
+    "revision": "rev_1793501208524_lxe9t",
+    "updatedAt": "2026-11-01T02:46:52.695Z"
   }
 }
