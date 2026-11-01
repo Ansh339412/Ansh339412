@@ -11518,7 +11518,9 @@
             "#333541",
             "#333541"
           ]
-        ]
+        ],
+        "animationType": "typewriter",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -11536,7 +11538,10 @@
         "width": 504,
         "height": 280
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
       "locked": false,
       "visible": true,
       "zIndex": 3,
@@ -11602,7 +11607,9 @@
         "height": 120
       },
       "config": {
-        "statsLayout": "horizontal"
+        "statsLayout": "horizontal",
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -11632,7 +11639,9 @@
           "instagram": "https://www.instagram.com/anshpreetsaini09",
           "linkedin": "https://www.linkedin.com/in/anshpreet-singh-57974b202",
           "website": "https://leetcode.com/u/ansh339412/"
-        }
+        },
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -11651,7 +11660,9 @@
         "height": 160
       },
       "config": {
-        "customBio": "🚀 Full-Stack Developer | B.Tech @ LPU\n💡 Building modern web experiences & solving real-world problems\n🌱 Learning • Creating • Innovating"
+        "customBio": "🚀 Full-Stack Developer | B.Tech @ LPU\n💡 Building modern web experiences & solving real-world problems\n🌱 Learning • Creating • Innovating",
+        "animationType": "typewriter",
+        "animationPreviewKey": 3
       },
       "locked": false,
       "visible": true,
@@ -11673,7 +11684,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793501348194_7iu4y",
-    "updatedAt": "2026-11-01T02:49:11.702Z"
+    "revision": "rev_1793501781051_4ubf1",
+    "updatedAt": "2026-11-01T02:56:25.052Z"
   }
 }
