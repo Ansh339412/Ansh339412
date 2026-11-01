@@ -2,28 +2,11 @@
   "username": "Ansh339412",
   "widgets": [
     {
-      "widgetId": "bio",
-      "name": "Bio Widget",
-      "position": {
-        "x": 8,
-        "y": 322
-      },
-      "size": {
-        "width": 784,
-        "height": 150
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1793501880017_2"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
         "x": 0,
-        "y": 488
+        "y": 433
       },
       "size": {
         "width": 800,
@@ -61,7 +44,7 @@
       "name": "Github-readme-stats Widget",
       "position": {
         "x": 0,
-        "y": 628
+        "y": 560
       },
       "size": {
         "width": 390,
@@ -77,8 +60,8 @@
       "widgetId": "streak-stats",
       "name": "Streak-stats Widget",
       "position": {
-        "x": 384,
-        "y": 628
+        "x": 390,
+        "y": 560
       },
       "size": {
         "width": 390,
@@ -96,7 +79,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 854
+        "y": 770
       },
       "size": {
         "width": 800,
@@ -113,7 +96,7 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 990
+        "y": 898
       },
       "size": {
         "width": 800,
@@ -130,7 +113,7 @@
       "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 1468
+        "y": 1314
       },
       "size": {
         "width": 800,
@@ -154,7 +137,7 @@
       "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 1190
+        "y": 1048
       },
       "size": {
         "width": 800,
@@ -170,8 +153,8 @@
       "widgetId": "views-counter",
       "name": "Views-counter Widget",
       "position": {
-        "x": 120,
-        "y": 1540
+        "x": 256,
+        "y": 1390
       },
       "size": {
         "width": 200,
@@ -187,8 +170,8 @@
       "widgetId": "readme-quotes",
       "name": "Readme-quotes Widget",
       "position": {
-        "x": 8,
-        "y": 1644
+        "x": 4,
+        "y": 1502
       },
       "size": {
         "width": 792,
@@ -238,7 +221,7 @@
   "templateId": "bento_grid",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793502868648_fh756",
-    "updatedAt": "2026-11-01T03:14:33.095Z"
+    "revision": "rev_1793502959685_osfek",
+    "updatedAt": "2026-11-01T03:16:04.615Z"
   }
 }
