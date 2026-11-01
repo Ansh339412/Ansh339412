@@ -13,8 +13,9 @@
         "height": 90
       },
       "config": {
-        "animationType": "zoom-in",
-        "animationPreviewKey": 2
+        "animationType": "glitch",
+        "animationPreviewKey": 7,
+        "animationDuration": 3000
       },
       "locked": false,
       "visible": true,
@@ -11600,7 +11601,9 @@
         "width": 800,
         "height": 120
       },
-      "config": {},
+      "config": {
+        "statsLayout": "horizontal"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -11670,7 +11673,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793501208524_lxe9t",
-    "updatedAt": "2026-11-01T02:46:52.695Z"
+    "revision": "rev_1793501348194_7iu4y",
+    "updatedAt": "2026-11-01T02:49:11.702Z"
   }
 }

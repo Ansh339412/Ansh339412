@@ -36,57 +36,57 @@
 
       
         <style>
-          @keyframes svg-fade-in-widget_1793500639429_0-2 {
+          @keyframes svg-fade-in-widget_1793500639429_0-7 {
             from { opacity: 0; }
             to { opacity: 1; }
           }
-          @keyframes svg-slide-up-widget_1793500639429_0-2 {
+          @keyframes svg-slide-up-widget_1793500639429_0-7 {
             from { opacity: 0; transform: translateY(8px); }
             to { opacity: 1; transform: translateY(0); }
           }
-          @keyframes svg-slide-down-widget_1793500639429_0-2 {
+          @keyframes svg-slide-down-widget_1793500639429_0-7 {
             from { opacity: 0; transform: translateY(-8px); }
             to { opacity: 1; transform: translateY(0); }
           }
-          @keyframes svg-slide-left-widget_1793500639429_0-2 {
+          @keyframes svg-slide-left-widget_1793500639429_0-7 {
             from { opacity: 0; transform: translateX(12px); }
             to { opacity: 1; transform: translateX(0); }
           }
-          @keyframes svg-slide-right-widget_1793500639429_0-2 {
+          @keyframes svg-slide-right-widget_1793500639429_0-7 {
             from { opacity: 0; transform: translateX(-12px); }
             to { opacity: 1; transform: translateX(0); }
           }
-          @keyframes svg-zoom-in-widget_1793500639429_0-2 {
+          @keyframes svg-zoom-in-widget_1793500639429_0-7 {
             from { opacity: 0; transform: scale(0.9); }
             to { opacity: 1; transform: scale(1); }
           }
-          @keyframes svg-zoom-out-widget_1793500639429_0-2 {
+          @keyframes svg-zoom-out-widget_1793500639429_0-7 {
             from { opacity: 0; transform: scale(1.1); }
             to { opacity: 1; transform: scale(1); }
           }
-          @keyframes svg-flip-x-widget_1793500639429_0-2 {
+          @keyframes svg-flip-x-widget_1793500639429_0-7 {
             from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
             to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
           }
-          @keyframes svg-flip-y-widget_1793500639429_0-2 {
+          @keyframes svg-flip-y-widget_1793500639429_0-7 {
             from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
             to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
           }
-          @keyframes svg-glitch-widget_1793500639429_0-2 {
+          @keyframes svg-glitch-widget_1793500639429_0-7 {
             0% { opacity: 0; transform: skewX(10deg); }
             20% { opacity: 0.8; transform: skewX(-10deg); }
             40% { opacity: 0.5; transform: skewX(5deg); }
             60% { opacity: 0.9; transform: skewX(0deg); }
             100% { opacity: 1; }
           }
-          @keyframes svg-scan-lines-widget_1793500639429_0-2 {
+          @keyframes svg-scan-lines-widget_1793500639429_0-7 {
             0% { opacity: 0; clip-path: inset(100% 0 0 0); }
             100% { opacity: 1; clip-path: inset(0 0 0 0); }
           }
 
           #widget-widget_1793500639429_0 .anim-target {
-            animation-name: svg-zoom-in-widget_1793500639429_0-2;
-            animation-duration: 1500ms;
+            animation-name: svg-glitch-widget_1793500639429_0-7;
+            animation-duration: 3000ms;
             animation-timing-function: ease-out;
             animation-fill-mode: both;
           }
