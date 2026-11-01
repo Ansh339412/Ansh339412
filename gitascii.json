@@ -2,40 +2,6 @@
   "username": "Ansh339412",
   "widgets": [
     {
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1793501880017_0"
-    },
-    {
-      "widgetId": "avatar",
-      "name": "Avatar Widget",
-      "position": {
-        "x": 0,
-        "y": 106
-      },
-      "size": {
-        "width": 176,
-        "height": 176
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1793501880017_1"
-    },
-    {
       "widgetId": "bio",
       "name": "Bio Widget",
       "position": {
@@ -125,23 +91,6 @@
       "instanceId": "widget_1793501880017_5"
     },
     {
-      "instanceId": "widget_d43a0d87-90e4-4c90-8ace-2caede3bb721",
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 150,
-        "y": 90
-      },
-      "size": {
-        "width": 650,
-        "height": 216
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_ddc8feb2-e140-48aa-9665-8a084fe5cb9d",
       "widgetId": "stats",
       "name": "Stats Widget",
@@ -176,34 +125,103 @@
       "zIndex": 9
     },
     {
-      "instanceId": "widget_a113b38d-108c-47c2-b002-ba1b97df1feb",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
+      "instanceId": "widget_8886754e-4e12-41d5-aee0-456f15e8a888",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 1174
+        "y": 1468
       },
       "size": {
         "width": 800,
-        "height": 120
+        "height": 44
       },
       "config": {
-        "selectedSocials": [
+        "platforms": [
           "github",
           "linkedin",
           "instagram",
-          "website"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/Ansh339412",
-          "instagram": "https://www.instagram.com/anshpreetsaini09",
-          "linkedin": "https://www.linkedin.com/in/anshpreet-singh-57974b202",
-          "website": "https://leetcode.com/u/ansh339412/"
-        }
+          "portfolio"
+        ]
       },
       "locked": false,
       "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_f8486f1b-7947-4900-955d-762e4733bbbb",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 1190
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_806d2e6e-217b-45ce-b7a5-641a0e0ad3a2",
+      "widgetId": "views-counter",
+      "name": "Views-counter Widget",
+      "position": {
+        "x": 120,
+        "y": 1540
+      },
+      "size": {
+        "width": 200,
+        "height": 96
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
       "zIndex": 12
+    },
+    {
+      "instanceId": "widget_256fa71d-0d2a-414a-8057-a37c47fb8799",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 8,
+        "y": 1644
+      },
+      "size": {
+        "width": 792,
+        "height": 210
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_27e1fcd9-6d3b-4bef-8ff9-c0a0f01e3739",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 20,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header",
+        "modeTag": "RETRO CRT",
+        "coords": "",
+        "animationType": "typewriter",
+        "animationPreviewKey": 4
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
     }
   ],
   "globalStyles": {
@@ -220,7 +238,7 @@
   "templateId": "bento_grid",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793502138243_l6r50",
-    "updatedAt": "2026-11-01T03:02:22.195Z"
+    "revision": "rev_1793502868648_fh756",
+    "updatedAt": "2026-11-01T03:14:33.095Z"
   }
 }
