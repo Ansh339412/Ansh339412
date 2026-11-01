@@ -11594,7 +11594,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 646
+        "y": 562
       },
       "size": {
         "width": 800,
@@ -11611,7 +11611,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 782
+        "y": 720
       },
       "size": {
         "width": 800,
@@ -11634,6 +11634,23 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
+    },
+    {
+      "instanceId": "widget_421ef9f7-38a4-4aad-bb4b-59de61769c2e",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 389
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
@@ -11651,7 +11668,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793500923759_7tcvu",
-    "updatedAt": "2026-11-01T02:42:07.655Z"
+    "revision": "rev_1793501112556_mlgjv",
+    "updatedAt": "2026-11-01T02:45:16.114Z"
   }
 }
